@@ -1,0 +1,6 @@
+au\com\standards\utils\base.class
+au\com\standards\pages\homeLoansPage.class
+au\com\standards\pages\homePage.class
+au\com\standards\runners\runnerBDD.class
+au\com\standards\pages\callBackFormPage.class
+au\com\standards\steps\homeLoanSteps.class
