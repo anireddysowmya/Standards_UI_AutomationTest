@@ -2,4 +2,4 @@
 
 Please follow below instructions to run the test,
 
-Select runnerBDD class and run as JUnit
+Select runnerBDD class and run as JUnit Test
